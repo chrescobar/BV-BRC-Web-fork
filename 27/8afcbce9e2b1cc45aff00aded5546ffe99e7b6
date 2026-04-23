@@ -1,0 +1,39 @@
+views/bv-brc-header.ejs
+  ef359848d4861dbd 219,502
+views/header.ejs
+  ef359848d4861dbd 763-769
+public/js/p3/widget/app/PredictStructure.js
+  ef359848d4861dbd 1-381
+public/js/p3/widget/app/templates/PredictStructure.html
+  ef359848d4861dbd 1-151,153-172,174-386
+  h_e893c4a39fbc49 152,173
+public/js/p3/widget/RerunUtility.js
+  ef359848d4861dbd 37
+public/js/p3/widget/copilot/workflowForms/ServiceFormRegistry.js
+  ef359848d4861dbd 33,69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "278afcbce9e2b1cc45aff00aded5546ffe99e7b6",
+  "prompts": {
+    "ef359848d4861dbd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a9032d70-2136-4ba9-9bcd-ee11337ee5c3",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Chris Escobar",
+      "messages": [],
+      "total_additions": 879,
+      "total_deletions": 103,
+      "accepted_lines": 778,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_e893c4a39fbc49": {
+      "author": "Chris Escobar"
+    }
+  }
+}
