@@ -1,0 +1,34 @@
+public/js/p3/widget/app/PredictStructure.js
+  s_266996d5e88b04::t_3676ec4bfe530c 5-7
+public/js/p3/widget/app/templates/PredictStructure.html
+  s_266996d5e88b04::t_18126ae6573f6d 109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "24052ee21736bc0fed6c800126ff52c290a37920",
+  "prompts": {
+    "d33797e5cf16187b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dfe15-12b2-7eb0-acc7-b98a0a15da3f",
+        "model": "unknown"
+      },
+      "human_author": "Chris Escobar <chrescobar@uchicago.edu>",
+      "total_additions": 278,
+      "total_deletions": 0,
+      "accepted_lines": 278,
+      "overriden_lines": 0
+    }
+  },
+  "sessions": {
+    "s_266996d5e88b04": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dfe14-c9de-7a70-9bbb-ecdba1052805",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Chris Escobar <chrescobar@uchicago.edu>"
+    }
+  }
+}
